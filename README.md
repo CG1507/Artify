@@ -1,5 +1,5 @@
 <h1 align="center">
-  :deciduous_tree: style-transfer :deciduous_tree:
+  :four_leaf_clover: style-transfer :hibiscus:
   <h3 align="center">
   :video_game: PlayGround
   </h3>
