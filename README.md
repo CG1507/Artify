@@ -28,6 +28,8 @@ After generation of style transfered images, if you want to preserve the origina
 python3 color_transform.py <path-to-content-image> <path-to-generated image>
 ```
 
+> **NOTE:** Copy results, after generating art, from result directory.
+
 ## Results
 
 | Content | Style | Art | color preserved |
@@ -42,7 +44,7 @@ python3 color_transform.py <path-to-content-image> <path-to-generated image>
 | <img src="https://github.com/CG1507/style-transfer/blob/master/images/9/content.jpg" width="250" height="250" /> | <img src="https://github.com/CG1507/style-transfer/blob/master/images/9/style.jpg" width="250" height="250" /> | <img src="https://github.com/CG1507/style-transfer/blob/master/images/9/art.png" width="250" height="250" /> | <img src="https://github.com/CG1507/style-transfer/blob/master/images/9/art_original_color.png" width="250" height="250" /> |
 | <img src="https://github.com/CG1507/style-transfer/blob/master/images/10/content.jpg" width="250" height="250" /> | <img src="https://github.com/CG1507/style-transfer/blob/master/images/10/style.jpg" width="250" height="250" /> | <img src="https://github.com/CG1507/style-transfer/blob/master/images/10/art.png" width="250" height="250" /> | <img src="https://github.com/CG1507/style-transfer/blob/master/images/10/art_original_color.png" width="250" height="250" /> |
 
-> NOTE: All results will be added soon! Above are initial results.
+> **NOTE:** All results will be added soon! Above are initial results.
 
 ## Todo
 
