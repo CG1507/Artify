@@ -22,6 +22,11 @@ Following code-snippet opens window to select content and style images. It gives
 python3 gui.py
 ```
 
+After generation of style transfered images, if you want to preserve the original color of the content image then:
+```
+python3 color_transform.py <path-to-content-image> <path-to-generated image>
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
