@@ -1,5 +1,5 @@
 <h1 align="center">
-  :four_leaf_clover: style-transfer :hibiscus:
+  :art: style-transfer :framed_picture:
   <h3 align="center">
   :video_game: PlayGround
   </h3>
