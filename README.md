@@ -1,5 +1,5 @@
 <h1 align="center">
-  :art: style-transfer :framed_picture:
+  :art: Artify :framed_picture:
   <h3 align="center">
   :video_game: PlayGround
   </h3>
