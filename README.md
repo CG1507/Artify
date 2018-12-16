@@ -4,7 +4,7 @@
 
 Artify is Neural Style Transfer playground for creating art, coloring the sketches, and transfering the styles to content image. It is implemented to faster experimentation with different images and settings.
 
-## Requirements:
+## Requirements
 * PyQt5
 * Keras
 * numpy
@@ -12,7 +12,7 @@ Artify is Neural Style Transfer playground for creating art, coloring the sketch
 * h5py
 * scikit-image
 
-## Run:
+## Run
 
 Following code-snippet opens window to select content and style images. It gives you flexibility to change the hyperparameter of the learning process.
 ```
@@ -27,6 +27,16 @@ After generation of style transfered images, if you want to preserve the origina
 ```
 python3 color_transform.py <path-to-content-image> <path-to-generated image>
 ```
+
+## Results
+
+Images
+
+## Todo
+
+- [ ] Colab support
+- [ ] custom model support for finding better settings
+- [ ] preserve color in GUI
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
