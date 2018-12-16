@@ -1,11 +1,8 @@
 <h1 align="center">
-  :art: Artify :framed_picture:
-  <h3 align="center">
-  :video_game: PlayGround
-  </h3>
-  <br />
-  <img src="https://github.com/CG1507/style-transfer/blob/master/images/demo.gif" width="900" height="500" />
+  <img src="https://github.com/CG1507/style-transfer/blob/master/images/logo.png"/>
 </h1>
+
+Artify is Neural Style Transfer playground for creating art, coloring the sketches, and transfering the styles to content image. It is implemented to faster experimentation with different images and settings.
 
 ## Requirements:
 * PyQt5
@@ -21,6 +18,10 @@ Following code-snippet opens window to select content and style images. It gives
 ```
 python3 gui.py
 ```
+
+<h1 align="center">
+  <img src="https://github.com/CG1507/style-transfer/blob/master/images/demo.gif" width="900" height="500" />
+</h1>
 
 After generation of style transfered images, if you want to preserve the original color of the content image then:
 ```
